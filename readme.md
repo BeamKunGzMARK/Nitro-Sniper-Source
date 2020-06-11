@@ -1,4 +1,7 @@
-# Discord Nitro Sniper Open Source
+# Discord Nitro Sniper Open Source [![Paypal][paypal-badge]][paypal-link]
+
+[paypal-badge]: https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=flat-square
+[paypal-link]: https://paypal.me/BeamKunGzMARK
 
 ![Picture](https://snipboard.io/4v9WmJ.jpg)
 
