@@ -1,7 +1,12 @@
 # Discord Nitro Sniper Open Source [![Paypal][paypal-badge]][paypal-link]
 
+<br>
+<a href="https://discord.gg/K6tnscw"> <img src="https://img.shields.io/discord/715596368416210944.svg?colorB=Blue&logo=discord&label=Support&style=for-the-badge" alt="Support">
+</a>
 
-
+<br>
+<a href="https://paypal.me/BeamKunGzMARK"> <img src="https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=for-the-badge" alt="Donate">
+</a>
 
 
 [paypal-badge]: https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=flat-square
@@ -17,6 +22,4 @@
 4. write in Terminal `python bot.py`
 
 
-<br>
-<a href="https://discord.gg/K6tnscw"> <img src="https://img.shields.io/discord/715596368416210944.svg?colorB=Blue&logo=discord&label=Support&style=for-the-badge" alt="Support">
-</a>
+
