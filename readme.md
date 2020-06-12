@@ -17,5 +17,7 @@
 3. open Terminal
 4. write in Terminal `python bot.py`
 
+<hr>
+
 
 
