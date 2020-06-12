@@ -1,5 +1,5 @@
 # Discord Nitro Sniper Open Source <br>
-<a href="https://discord.gg/K6tnscw"> <img src="https://img.shields.io/discord/265499275088232448.svg?colorB=Blue&logo=discord&label=Support&style=for-the-badge" alt="Support">
+<a href="https://discord.gg/K6tnscw"> <img src="https://img.shields.io/discord/715596368416210944.svg?colorB=Blue&logo=discord&label=Support&style=for-the-badge" alt="Support">
 </a> [![Paypal][paypal-badge]][paypal-link]
 
 
