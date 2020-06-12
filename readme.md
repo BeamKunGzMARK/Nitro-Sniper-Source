@@ -1,13 +1,14 @@
 # Discord Nitro Sniper Open Source
 <hr>
 <br>
-<a href="https://paypal.me/BeamKunGzMARK"> <img src="https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=for-the-badge" alt="Donate">
+<a href="https://paypal.me/BeamKunGzMARK"> <img src="https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=for-the-badge" alt="Donate" align="center">
 </a>
-<a href="https://discord.gg/K6tnscw"> <img src="https://img.shields.io/discord/715596368416210944.svg?colorB=Blue&logo=discord&label=Support&style=for-the-badge" alt="Support">
+<a href="https://discord.gg/K6tnscw"> <img src="https://img.shields.io/discord/715596368416210944.svg?colorB=Blue&logo=discord&label=Support&style=for-the-badge" alt="Support" align="center">
 </a>
 
 <hr>
-![Picture](https://snipboard.io/4v9WmJ.jpg)
+<img src="https://snipboard.io/4v9WmJ.jpg" align="center" alt="Logo">
+<hr>
 
 ## How To use
 
