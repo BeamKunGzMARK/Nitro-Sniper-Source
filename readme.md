@@ -2,7 +2,7 @@
 <a href="https://discord.gg/K6tnscw"> <img src="https://img.shields.io/discord/715596368416210944.svg?colorB=Blue&logo=discord&label=Support&style=for-the-badge" alt="Support">
 </a>
 
-<a href="https://paypal.me/BeamKunGzMARK"> <?logo=visual-studio-code alt="Donate">
+<a href="https://paypal.me/BeamKunGzMARK"> <img src="https://img.shields.io/paypal?colorB=Blue&logo=paypal&label=Donate&style=for-the-badge?logo=paypal alt="Donate">
 </a> 
 
 
