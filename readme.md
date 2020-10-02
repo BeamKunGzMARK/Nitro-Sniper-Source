@@ -7,7 +7,7 @@
 </a>
 
 <hr>
-<img src="https://snipboard.io/4v9WmJ.jpg" align="center" alt="Logo">
+<img src="https://i.gyazo.com/978735fb13a4d9225fe2350e26376714.png" align="center" alt="Logo">
 <hr>
 
 ## How To use
