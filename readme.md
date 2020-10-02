@@ -1,4 +1,6 @@
 # Discord Nitro Sniper Open Source
+
+# HAVE NEW VERSION https://github.com/BeamKunGzMARK/NitroSniper
 <hr>
 <br>
 <a href="https://paypal.me/BeamKunGzMARK"> <img src="https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=for-the-badge" align="center" alt="Donate">
